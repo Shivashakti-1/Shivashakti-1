@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Yash+Singh;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀;Let's+Build+Something+Amazing+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Shiva+Shakti+Dubey;Front-end+Developer+💻;Always+Learning+New+Things+🚀;Let's+Build+Something+Amazing+✨)](https://git.io/typing-svg)
 
 
 
@@ -6,10 +6,10 @@
 
  <h3 align="left">Connect with me:</h3> <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/Handshake.gif?raw=true" height="60px" style="max-width:100%;">
 <p align="left">
-<a href="https://twitter.com/Yash9385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash9385" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Yash9385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash9385" height="30" width="40" /></a>
-<a href="https://instagram.com/yashsingh4243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yash9385" height="30" width="40" /></a>
-<a href="mailto:yashsingh0120@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/Shivashakti0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shivashakti0007" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shiva-shakti-dubey-495337259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-shakti-dubey-495337259" height="30" width="40" /></a>
+<a href="https://instagram.com/aeonshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeonshiv" height="30" width="40" /></a>
+<a href="mailto:shivashaktidubey@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.icons8.com/ios-glyphs/48/D14836/gmail.png" title="Gmail" alt="Gmail"/>
   </a>
 </p>
@@ -36,7 +36,7 @@ ___
 
 
  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siser-Pratap&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivashakti-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 
