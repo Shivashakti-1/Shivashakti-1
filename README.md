@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://x.com/Shivashakti0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shivashakti0007" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/shiva-shakti-dubey-495337259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-shakti-dubey-495337259" height="30" width="40" /></a>
-<a href="https://instagram.com/aeonshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeonshiv" height="30" width="40" /></a>
 <a href="mailto:shivashaktidubey@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.icons8.com/ios-glyphs/48/D14836/gmail.png" title="Gmail" alt="Gmail"/>
   </a>
