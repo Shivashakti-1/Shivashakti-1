@@ -17,26 +17,6 @@ ___
 # 💻 Tech Stack:    <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/typing.gif?raw=true" height="40px" style="max-width:100%;">
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,java,javascript,typescript,nodejs,react,nextjs,mysql,docker,python,postman,ux)](https://skillicons.dev)
 
-### 📊 **GitHub Stats:**
-
-
-
-
-
-
-
-
-
-
-## 🟩 Contribution Activity
-
-
-
-
-
- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivashakti-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 
 
