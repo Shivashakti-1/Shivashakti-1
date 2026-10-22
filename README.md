@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Information Technology, **KIET Group of Institutions** (2022 – 2026)
-- 💼 Looking for **Associate Software Engineer** roles where I can ship real products and grow fast
-- 🛠️ Comfortable across the stack: React / Next.js on the front end, Node.js and SQL-backed services on the back end
-- 🌱 Currently deepening my skills in **TypeScript, system design and applied LLM tooling**
+- 💼 Looking for **Software Engineer** roles where I can ship real products and grow fast
+- 🧠 Strong grasp of **OOPs and core CS subjects** (DSA, DBMS, OS, CN), and very good at **problem solving**
+- 🌱 Currently deepening my skills in **system design and applied LLM tooling**
 - 💬 Ask me about: web development, building ERP-style apps, evaluating LLM outputs
 
 ---
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,bootstrap,javascript,typescript,react,nextjs,nodejs,mysql,docker,postman,git,github,githubactions&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,bootstrap,javascript,mysql,docker,postman,git,github,githubactions&perline=9)](https://skillicons.dev)
 
 <br/>
 
