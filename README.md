@@ -35,7 +35,15 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,bootstrap,javascript,typescript,react,nextjs,nodejs,mysql,docker,postman&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,bootstrap,javascript,typescript,react,nextjs,nodejs,mysql,docker,postman,git,github,githubactions&perline=9)](https://skillicons.dev)
+
+<br/>
+
+![System Design](https://img.shields.io/badge/System%20Design-6C63FF?style=for-the-badge&logo=diagram.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -45,10 +53,27 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivashakti-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivashakti-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Shivashakti-1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/UnknownShiva/">
+  <img height="200" src="https://leetcard.jacoblin.cool/UnknownShiva?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/UnknownShiva/"><img src="https://img.shields.io/badge/LeetCode-UnknownShiva-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
+<a href="https://neetcode.io/profile/EagerRayquaza905"><img src="https://img.shields.io/badge/NeetCode-EagerRayquaza905-F97316?style=for-the-badge&logoColor=white" alt="NeetCode profile"/></a>
 
 </div>
 
