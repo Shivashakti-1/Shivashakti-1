@@ -27,7 +27,6 @@
 | 🧠 **LLM Regression Detector** | Detects when a new LLM or prompt version performs worse than the previous one | Solo-built · automated comparison of model outputs |
 | 🎓 **College ERP Portal** | Web portal to manage college operations in one place | Solo-built · Supabase backend · fully working end to end |
 
-> Pin these two on your profile and link each repo name to its GitHub URL.
 
 ---
 
