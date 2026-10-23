@@ -1,67 +1,75 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Shiva+Shakti+Dubey+👋;Software+Engineer+%7C+Full-Stack+Developer;I+build+clean%2C+fast+and+useful+web+apps;Open+to+Associate+Software+Engineer+roles+🚀)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7A0C1E,50:E62429,100:F5C518&text=SHIVA%20SHAKTI%20DUBEY&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=//%20SYSTEM%20ONLINE%20%E2%80%A2%20ALL%20MODULES%20LOADED&descAlignY=58&descSize=16&animation=fadeIn)
 
-<a href="https://www.linkedin.com/in/shiva-shakti-dubey-495337259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/Shivashakti0007"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:shivashaktidubey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=720&height=50&lines=%3E+initializing+developer+profile...;%3E+role%3A+Software+Engineer+%7C+Full-Stack+Developer;%3E+status%3A+open+to+work+%F0%9F%9A%80;%3E+mission%3A+build+fast%2C+clean%2C+useful+software)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/shiva-shakti-dubey-495337259"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="LinkedIn"/></a>
+<a href="https://x.com/Shivashakti0007"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="X"/></a>
+<a href="mailto:shivashaktidubey@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="Email"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Shivashakti-1&label=PROFILE+SCANS&color=E62429&style=for-the-badge&labelColor=0D0D0D" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ `> boot_sequence.log`
 
-- 🎓 B.Tech in Information Technology, **KIET Group of Institutions** (2022 – 2026)
-- 💼 Looking for **Software Engineer** roles where I can ship real products and grow fast
-- 🧠 Strong grasp of **OOPs and core CS subjects** (DSA, DBMS, OS, CN), and very good at **problem solving**
-- 🌱 Currently deepening my skills in **system design and applied LLM tooling**
-- 💬 Ask me about: web development, building ERP-style apps, evaluating LLM outputs
+```text
+[ OK ] Education ........ B.Tech IT, KIET Group of Institutions (2022 - 2026)
+[ OK ] Target role ...... Software Engineer
+[ OK ] Core modules ..... OOPs, DSA, DBMS, OS, CN
+[ OK ] Problem solving .. very good, LeetCode and NeetCode on daily rotation
+[ >> ] Now loading ...... TypeScript, System Design, applied LLM tooling
+[ ?? ] Ask me about ..... ERP-style apps, evaluating LLM outputs
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ `> active_projects`
 
-| Project | What it does | Highlights |
+| Module | Function | Status |
 |---|---|---|
-| 🧠 **LLM Regression Detector** | Detects when a new LLM or prompt version performs worse than the previous one | Solo-built · automated comparison of model outputs |
-| 🎓 **College ERP Portal** | Web portal to manage college operations in one place | Solo-built · Supabase backend · fully working end to end |
-
+| 🧠 **LLM Regression Detector** | Detects when a new LLM or prompt version performs worse than the previous one | 🟢 Solo-built · automated output comparison |
+| 🎓 **College ERP Portal** | Web portal that runs college operations in one place | 🟢 Solo-built · Supabase backend · fully operational |
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 `> tech_arsenal`
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,bootstrap,javascript,mysql,docker,postman,git,github,githubactions&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,docker,postman,git,github,githubactions&perline=9&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-![System Design](https://img.shields.io/badge/System%20Design-6C63FF?style=for-the-badge&logo=diagram.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![System Design](https://img.shields.io/badge/SYSTEM%20DESIGN-0D0D0D?style=for-the-badge&logo=diagram.net&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
+![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
+![Git](https://img.shields.io/badge/GIT-0D0D0D?style=for-the-badge&logo=git&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
+![GitHub](https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 `> telemetry`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivashakti-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivashakti-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivashakti-1&show_icons=true&bg_color=0D0D0D&title_color=F5C518&icon_color=E62429&text_color=FFFFFF&border_color=E62429" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivashakti-1&layout=compact&bg_color=0D0D0D&title_color=F5C518&text_color=FFFFFF&border_color=E62429" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Shivashakti-1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Shivashakti-1&background=0D0D0D&border=E62429&ring=E62429&fire=F5C518&currStreakLabel=F5C518&currStreakNum=FFFFFF&sideLabels=F5C518&sideNums=FFFFFF&dates=9CA3AF&stroke=3A3A3A" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivashakti-1&bg_color=0D0D0D&color=F5C518&line=E62429&point=FFFFFF&area=true&area_color=E62429&hide_border=true" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧩 `> problem_solving_core`
 
 <div align="center">
 
@@ -71,19 +79,19 @@
 
 <br/>
 
-<a href="https://leetcode.com/u/UnknownShiva/"><img src="https://img.shields.io/badge/LeetCode-UnknownShiva-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
-<a href="https://neetcode.io/profile/EagerRayquaza905"><img src="https://img.shields.io/badge/NeetCode-EagerRayquaza905-F97316?style=for-the-badge&logoColor=white" alt="NeetCode profile"/></a>
+<a href="https://leetcode.com/u/UnknownShiva/"><img src="https://img.shields.io/badge/LEETCODE-UnknownShiva-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="LeetCode profile"/></a>
+<a href="https://neetcode.io/profile/EagerRayquaza905"><img src="https://img.shields.io/badge/NEETCODE-EagerRayquaza905-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=E62429" alt="NeetCode profile"/></a>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📡 `> open_comms_channel`
 
-I'm always happy to talk about projects, collaborations or opportunities. The fastest way to reach me is email: **shivashaktidubey@gmail.com**
+Got a project, a role or an idea? Transmit to **shivashaktidubey@gmail.com** and I'll respond.
 
 <div align="center">
 
-*Built to build better.* ✨
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F5C518,50:E62429,100:7A0C1E&section=footer&text=Built%20to%20build%20better.&fontColor=FFFFFF&fontSize=22&fontAlignY=65)
 
 </div>
