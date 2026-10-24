@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7A0C1E,50:E62429,100:F5C518&text=SHIVA%20SHAKTI%20DUBEY&fontColor=FFFFFF&fontSize=44&fontAlignY=38&descAlignY=58&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=720&height=50&lines=%3E+initializing+developer+profile...;%3E+role%3A+Software+Engineer+%7C+Full-Stack+Developer;%3E+status%3A+open+to+work+%F0%9F%9A%80;%3E+mission%3A+build+fast%2C+clean%2C+useful+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=720&height=50&lines=%3E+initializing+developer+profile...;%3E+role%3A+Software+Engineer;%3E+status%3A+open+to+work+%F0%9F%9A%80;%3E+mission%3A+build+fast%2C+clean%2C+useful+software)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/shiva-shakti-dubey-495337259"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="LinkedIn"/></a>
 <a href="https://x.com/Shivashakti0007"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="X"/></a>
@@ -21,7 +21,7 @@
 [ OK ] Target role ...... Software Engineer
 [ OK ] Core modules ..... OOPs, DSA, DBMS, OS, CN
 [ OK ] Problem solving .. very good, LeetCode and NeetCode on daily rotation
-[ >> ] Now loading ...... TypeScript, System Design, applied LLM tooling
+[ >> ] Now loading ...... System Design, applied LLM tooling
 [ ?? ] Ask me about ..... ERP-style apps, evaluating LLM outputs
 ```
 
@@ -47,8 +47,7 @@
 ![System Design](https://img.shields.io/badge/SYSTEM%20DESIGN-0D0D0D?style=for-the-badge&logo=diagram.net&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
 ![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
-![Git](https://img.shields.io/badge/GIT-0D0D0D?style=for-the-badge&logo=git&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
-![GitHub](https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=F5C518&labelColor=0D0D0D&color=E62429)
+
 
 </div>
 
