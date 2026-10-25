@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7A0C1E,50:E62429,100:F5C518&text=SHIVA%20SHAKTI%20DUBEY&fontColor=FFFFFF&fontSize=44&fontAlignY=38&descAlignY=58&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=720&height=50&lines=%3E+initializing+developer+profile...;%3E+role%3A+Software+Engineer;%3E+status%3A+open+to+work+%F0%9F%9A%80;%3E+mission%3A+build+fast%2C+clean%2C+useful+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=720&height=50&lines=%3E+initializing+profile...;%3E+role%3A+Software+Engineer;%3E+status%3A+open+to+work+%F0%9F%9A%80;%3E+mission%3A+build+fast%2C+clean%2C+useful+software)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/shiva-shakti-dubey-495337259"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="LinkedIn"/></a>
 <a href="https://x.com/Shivashakti0007"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=F5C518&labelColor=0D0D0D&color=E62429" alt="X"/></a>
