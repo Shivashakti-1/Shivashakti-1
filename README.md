@@ -1,5 +1,8 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ================================================= -->
+<!--              SHIVA SHAKTI DUBEY                  -->
+<!--             GITHUB PROFILE README                -->
+<!-- ================================================= -->
 
 <div align="center">
 
@@ -7,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=70D6FF&center=true&vCenter=true&width=650&lines=Building+Backend+Applications;Java+%7C+Spring+Boot+%7C+SQL;DSA+in+C%2B%2B+and+Java;Learning+by+Building+Real+Projects" />
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/shiva-shakti-dubey-495337259">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,16 +21,17 @@
 <a href="mailto:shivashaktidubey@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://x.com/Shivashakti0007">
+<img src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shivashakti-1&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Shivashakti-1&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
 
 </div>
 
 ---
-
-<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -62,13 +66,11 @@ public class Developer {
 - 🎓 B.Tech graduate in Information Technology (2026).
 - 💻 Interested in Software Development and Backend Engineering.
 - ☕ Working with Java, Spring Boot and REST APIs.
-- 🧠 Practicing Data Structures and Algorithms in C++ and Java.
+- 🧠 Practicing DSA in C++ and Java.
 - 🛠️ Building practical projects and exploring new technologies.
 - 🚀 Focused on writing clean, maintainable and efficient code.
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## ⚡ Technical Arsenal
 
@@ -105,8 +107,8 @@ public class Developer {
 ### Core Computer Science
 
 <p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Operating%20Systems-334155?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Networks-1D4ED8?style=for-the-badge"/>
@@ -115,11 +117,11 @@ public class Developer {
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
 ## 🚀 Featured Projects
 
 ### 01. College ERP Portal
+
+<div align="left">
 
 <a href="https://github.com/Shivashakti-1/campusflow-erp">
 <img src="https://img.shields.io/badge/GitHub-View%20Source-172554?style=for-the-badge&logo=github"/>
@@ -128,11 +130,14 @@ public class Developer {
 <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+</div>
+
 **Tech Stack:** HTML, CSS, JavaScript, Supabase, GitHub Actions
 
 A responsive college ERP portal with separate student and admin dashboards.
 
 **Key Features:**
+
 - Independently developed a responsive college ERP portal with student record management.
 - Implemented email/password authentication, role-based access control and Supabase Row Level Security (RLS).
 - Automated deployment using GitHub Actions and GitHub Pages.
@@ -155,6 +160,8 @@ flowchart TD
 
 ### 02. LLM Regression Detector
 
+<div align="left">
+
 <a href="https://github.com/Shivashakti-1/llm-regression-detector">
 <img src="https://img.shields.io/badge/GitHub-View%20Source-172554?style=for-the-badge&logo=github"/>
 </a>
@@ -162,11 +169,14 @@ flowchart TD
 <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
+</div>
+
 **Tech Stack:** Python, Streamlit, OpenAI API, Docker, GitHub Actions
 
 A Python-based tool that detects regressions in LLM-generated responses by comparing outputs against saved baseline responses.
 
 **Key Features:**
+
 - Developed keyword and overlap-based scoring with configurable quality thresholds.
 - Implemented mock and OpenAI API providers for reproducible and live evaluations.
 - Integrated GitHub Actions and Docker to automate evaluations, generate reports and send Slack notifications for failed evaluations.
@@ -178,7 +188,7 @@ flowchart TD
     A[Input Prompt] --> B[LLM Provider]
     B --> C[Generated Response]
     C --> D[Baseline Comparison]
-    D --> E[Keyword & Overlap Scoring]
+    D --> E[Keyword and Overlap Scoring]
     E --> F[Quality Threshold]
     F --> G{Evaluation Result}
     G -->|Pass| H[Pass Report]
@@ -187,8 +197,6 @@ flowchart TD
 ```
 
 ---
-
-<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
 
 ## 🏆 Achievements
 
@@ -207,8 +215,6 @@ flowchart TD
 
 ---
 
-<!-- ===================== CERTIFICATIONS ===================== -->
-
 ## 📜 Certifications
 
 | Certification | Issuing Organization |
@@ -221,29 +227,41 @@ flowchart TD
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivashakti-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=70D6FF&icon_color=7C3AED&text_color=C9D1D9"/>
+<!-- GITHUB STATS -->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivashakti-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=70D6FF&text_color=C9D1D9"/>
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=Shivashakti-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=70D6FF&icon_color=7C3AED&text_color=C9D1D9"
+alt="GitHub Statistics"/>
 
-<br/>
+<!-- TOP LANGUAGES -->
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Shivashakti-1&theme=tokyonight&hide_border=true&background=0B1020&ring=2563EB&fire=7C3AED&currStreakLabel=70D6FF"/>
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivashakti-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=70D6FF&text_color=C9D1D9&langs_count=8"
+alt="Top Programming Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivashakti-1&bg_color=0B1020&color=70D6FF&line=2563EB&point=7C3AED&area=true&hide_border=true" width="100%"/>
+<!-- STREAK STATS -->
+
+<img width="75%"
+src="https://streak-stats.demolab.com?user=Shivashakti-1&theme=tokyonight&hide_border=true&background=0B1020&ring=2563EB&fire=7C3AED&currStreakLabel=70D6FF"
+alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Shivashakti-1&bg_color=0B1020&color=70D6FF&line=2563EB&point=7C3AED&area=true&hide_border=true"
+alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
-
-<!-- ===================== PROBLEM SOLVING ===================== -->
 
 ## 🧩 Problem Solving Profiles
 
@@ -254,7 +272,7 @@ flowchart TD
 </a>
 
 <a href="https://neetcode.io/profile/EagerRayquaza905">
-<img src="https://img.shields.io/badge/NeetCode-Profile-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeetCode-Profile-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
@@ -262,14 +280,12 @@ flowchart TD
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Practice-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-<!-- ===================== CURRENT FOCUS ===================== -->
 
 ## 🎯 Currently Learning & Exploring
 
@@ -283,8 +299,6 @@ flowchart TD
 </div>
 
 ---
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Let's Connect
 
@@ -316,8 +330,8 @@ I'm always interested in connecting with developers, discussing technology, lear
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0B1020&height=120&section=footer"/>
-
 **"Consistency beats intensity. Keep building. Keep growing."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0B1020&height=120&section=footer"/>
 
 </div>
