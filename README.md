@@ -210,7 +210,6 @@ flowchart TD
 
 - Solved 450+ coding problems across LeetCode, GeeksforGeeks, NeetCode and HackerRank.
 - Earned 5-star badges in C and C++ on HackerRank.
-- Secured Rank 226 in CodeChef Starters 262.
 - Achieved top ranks in multiple college-level coding competitions.
 
 ---
